@@ -1,9 +1,10 @@
-package com.xiaoding.firstdemo;
+package com.xiaoding.firstdemo.activity;
 
 import android.app.*;
 import android.os.*;
 import android.util.*;
 import android.support.v7.app.*;
+import com.xiaoding.firstdemo.util.*;
 
 
 public class BaseActivity extends AppCompatActivity

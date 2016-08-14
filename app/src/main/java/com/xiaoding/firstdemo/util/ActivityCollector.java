@@ -1,4 +1,4 @@
-package com.xiaoding.firstdemo;
+package com.xiaoding.firstdemo.util;
 
 import java.util.*;
 import android.app.*;
