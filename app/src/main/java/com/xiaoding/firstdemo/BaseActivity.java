@@ -3,9 +3,10 @@ package com.xiaoding.firstdemo;
 import android.app.*;
 import android.os.*;
 import android.util.*;
+import android.support.v7.app.*;
 
 
-public class BaseActivity extends Activity
+public class BaseActivity extends AppCompatActivity
 {
 
 	@Override
